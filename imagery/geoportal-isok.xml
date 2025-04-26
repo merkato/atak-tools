@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customWmsMapSource>
+    <name>ISOK</name>
+    <minZoom>12</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>PNG</tileType>
+    <version>1.1.1</version>
+    <layers>Raster</layers>
+    <url>https://mapy.geoportal.gov.pl/wss/service/PZGIK/NMT/GRID1/WMS/ShadedRelief?</url>
+    <coordinatesystem>EPSG:4326</coordinatesystem>
+    <aditionalparameters></aditionalparameters>
+    <backgroundColor>#000000</backgroundColor>
+</customWmsMapSource>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customWmsMapSource>
+    <name>ČÚZK - Mapa topograficzna ČR ZTM10</name>
+    <minZoom>12</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>PNG</tileType>
+    <version>1.1.1</version>
+    <layers>0</layers>
+    <url>https://ags.cuzk.gov.cz/arcgis1/services/ZTM/ZTM10/MapServer/WMSServer?</url>
+    <coordinatesystem>EPSG:4326</coordinatesystem>
+    <aditionalparameters></aditionalparameters>
+    <backgroundColor>#000000</backgroundColor>
+</customWmsMapSource>
